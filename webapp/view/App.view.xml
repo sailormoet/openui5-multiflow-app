@@ -1,0 +1,6 @@
+<mvc:View
+  controllerName="sm.multiflow.controller.App"
+  xmlns="sap.m"
+  xmlns:mvc="sap.ui.core.mvc">
+  <Text text="Multi Flow Application :)"/>
+</mvc:View>
