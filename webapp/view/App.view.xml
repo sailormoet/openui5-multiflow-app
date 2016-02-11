@@ -2,5 +2,5 @@
   controllerName="sm.multiflow.controller.App"
   xmlns="sap.m"
   xmlns:mvc="sap.ui.core.mvc">
-  <Text text="Multi Flow Application :)"/>
+  <Text text="{i18n>message}"/>
 </mvc:View>
